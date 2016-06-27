@@ -1,4 +1,4 @@
-![My image](exarchiasghost.github.com/CompTechDoumentations/photos Exarchos/20160627.jpg)
+![alt text](https://raw.githubusercontent.com/Exarchiasghost/CompTechDoumentations/master/Exarchos%20Tower%20Exarchias%20windows%207/photos%20Exarchos/20160627%20DLink.JPG "Logo Title Text 1")
     
 
 **Date:** 27/06/2016  
