@@ -1,4 +1,4 @@
-[logo]: https://raw.githubusercontent.com/Exarchiasghost/CompTechDoumentations/master/Exarchos%20Tower%20Exarchias%20windows%207/photos%20Exarchos/20160627%20DLink.JPG "D-link switch connected to Exarchos"
+[logo]: "https://raw.githubusercontent.com/Exarchiasghost/CompTechDoumentations/master/Exarchos%20Tower%20Exarchias%20windows%207/photos%20Exarchos/20160627%20DLink.JPG" "D-link switch connected to Exarchos"
     
 
 **Date:** 27/06/2016  
