@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Exarchiasghost/CompTechDoumentations/master/Exarchos%20Tower%20Exarchias%20windows%207/photos%20Exarchos/20160627%20DLink.JPG "D-link connected to exarchos")
+![alt text](https://raw.githubusercontent.com/Exarchiasghost/CompTechDoumentations/master/Exarchos%20Tower%20Exarchias%20windows%207/photos%20Exarchos/Skärmklipp20160701.JPG "DNS is not responding")
     
 
 **Date:** 01/07/2016  
