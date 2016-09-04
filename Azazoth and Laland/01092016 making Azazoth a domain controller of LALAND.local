@@ -1,0 +1,26 @@
+![enter image description here](https://musingsofashibe.files.wordpress.com/2015/10/mrrobotlogo.jpg)
+  
+#Making Azazoth a controler of a new active directory Thursday 01/09/2016
+
+I was asked to make my server-pc to a domain controler for the Activer directory that will be assigned to the domain LALAND which will host at least one client.  
+  
+The best tutorial that i found for this case is here LINK and it is a part of the series of tutorials that i am following for the subject of windows server.  
+  
+The process was simple and i don't think that i have to write many details about it, so i will stick to the important stuff:  
+  
+![enter image description here](http://www.howtogeek.com/wp-content/uploads/gg/up/sshot5176b7bb0f736.jpg)
+  
+##The IPv4 issue is resolved
+I decided to add the returning adress 127.0.0.1 as my DNS adress but i kept  the standard, (the suggested one), gateway. after researching the issue with the whole domain controller thing i have few objections about not using the main domain controller as gateway, but that is something that lies on my lack of knowledge so i will have to find my answers about that through studying. in this point i should remind once again that my allowed IPv4 adresses are 4 in total and they have the scope from 10.20.0.158 to 10.20.0.162
+
+##More details
+The LALAND.local is active now and i have two users activated on the pc Azazoth@LALAND.local:  
+Administrator@LALAND.local and  
+Exarchias@LALAND.local  
+The use of .local has to do with the domain naming of a domain, and i understand the TODOs and NOTTODOs of the issue without having full picture about the why of the issue.  
+  
+Next thing that is asked from me and i will do it the next time, is to add a client computer to the domain. I am planning to do that on Monday.  
+
+At last i had a trivial issue with the warnings on the server-handler (i don't remember how we call it in English). As I made the domain controller i received 5 warnings about 5 services that weren't active. In 5 min the 4 of them were solved but the fifth was stayed red. Anyway the red was names as google-update, so is classified as trivial to TODOs. of course i will try to solve it, but it is not a big deal as i believe.
+
+> Written with [StackEdit](https://stackedit.io/).
