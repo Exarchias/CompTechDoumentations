@@ -3,9 +3,7 @@
   
 #Adding stuff to endor.local 29/09/2016
 
-On Monday 19/09/2016 i started the process to install a new active domain directory that will be in the domain endor.local and it will have computer, users, and OU according to the instractions, and it has to be copied on a hyperV virtual domain, (i will return to this part when the time will come later... the instructions are bit unclear. )  
-  
-The task that i had on hand on monday was:  
+On 29/09/2016 i continue with my assignment on endor.local 
 
 ##To create groups and users to endor.local
 
